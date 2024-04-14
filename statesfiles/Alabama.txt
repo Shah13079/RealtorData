@@ -1,0 +1,588 @@
+Huntsville
+Birmingham
+Montgomery
+Mobile
+Tuscaloosa
+Hoover
+Auburn
+Dothan
+Decatur
+Madison
+Florence
+Vestavia Hills
+Phenix City
+Prattville
+Gadsden
+Alabaster
+Opelika
+Northport
+Enterprise
+Daphne
+Homewood
+Bessemer
+Athens
+Trussville
+Pelham
+Albertville
+Oxford
+Mountain Brook
+Fairhope
+Anniston
+Helena
+Foley
+Prichard
+Selma
+Tillmans Corner
+Cullman
+Troy
+Hueytown
+Millbrook
+Center Point
+Calera
+Muscle Shoals
+Saraland
+Gardendale
+Talladega
+Scottsboro
+Hartselle
+Alexander City
+Fort Payne
+Gulf Shores
+Chelsea
+Ozark
+Jasper
+Irondale
+McCalla
+Moody
+Jacksonville
+Pell City
+Eufaula
+Sylacauga
+Leeds
+Russellville
+Saks
+Valley
+Clay
+Fairfield
+Rainbow City
+Boaz
+Spanish Fort
+Fultondale
+Pleasant Grove
+Meadowbrook
+Sheffield
+Southside
+Forestdale
+Pike Road
+Tuskegee
+Tuscumbia
+Andalusia
+Atmore
+Clanton
+Guntersville
+Arab
+Meridianville
+Orange Beach
+Bay Minette
+Brook Highland
+Greenville
+Pinson
+Demopolis
+Wetumpka
+Hamilton
+Montevallo
+Lincoln
+Lanett
+Oneonta
+Satsuma
+Opp
+Harvest
+Robertsdale
+Chickasaw
+Tarrant
+Highland Lakes
+Grayson Valley
+Monroeville
+Theodore
+Fort Rucker
+Attalla
+Moores Mill
+Rainsville
+Smiths Station
+Roanoke
+Glencoe
+Redland
+Brewton
+Midfield
+Tallassee
+Margaret
+Holtville
+Semmes
+Headland
+Daleville
+Piedmont
+Winfield
+Odenville
+Holt
+Jackson
+Childersburg
+Springville
+Argo
+Hokes Bluff
+Adamsville
+Haleyville
+Fayette
+Geneva
+Columbiana
+Mount Olive CDP
+Valley Grande
+Alexandria
+Pine Level
+Citronelle
+Hazel Green
+Cottondale
+Kimberly
+Ladonia
+Thomasville
+Loxley
+Evergreen
+Centre
+Priceville
+Emerald Mountain
+Elba
+Grand Bay
+Heflin
+Union Springs
+Weaver
+Lake View
+Moulton
+Marion
+Livingston
+Brent
+Warrior
+Red Bay
+Hanceville
+East Brewton
+West End-Cobb Town
+Dadeville
+Huguley
+Brighton
+Eutaw
+New Hope
+Choccolocco
+Eagle Point
+Centreville
+Triana
+Moundville
+Creola
+Dora
+Graysville
+Luverne
+Stevenson
+Sumiton
+La Fayette
+Underwood-Petersville
+Jemison
+Hartford
+Lineville
+Taylor
+Indian Springs Village
+Stapleton
+Bayou La Batre
+Remlap
+Clayton
+Bon Secour
+Trinity
+Guin
+Greensboro
+Owens Cross Roads
+Thorsby
+Ashford
+Carlisle-Rockledge
+Good Hope
+Henagar
+Riverside
+Brookwood
+Butler
+York
+Kinsey
+Bridgeport
+Elberta
+Brundidge
+Morris
+Aliceville
+Abbeville
+Cowarts
+Wilsonville
+Whitesboro
+Camden
+Lillian
+Deatsville
+Lipscomb
+Coaling
+Ashville
+Grove Hill
+Uniontown
+Collinsville
+Point Clear
+Selmont-West Selmont
+Westover
+Linden
+Reform
+Crossville
+Vernon
+Midland City
+Fort Deposit
+Marbury
+Blountsville
+Vance
+Sylvania
+Level Plains
+Sardis City
+Slocomb
+Vincent
+Stewartville
+Ragland
+Florala
+Dauphin Island
+Double Springs
+Ashland
+Flomaton
+Rehobeth
+Malvern
+Cordova
+Cedar Bluff
+Frisco City
+Smoke Rise
+Concord
+Sylvan Springs
+Sulligent
+Newton
+Gordo
+Harpersville
+Munford
+Bear Creek
+Elmore
+Samson
+Mount Vernon
+Locust Fork
+Grant
+Carbon Hill
+Rock Creek
+Summerdale
+Hackleburg
+Altoona
+Magnolia Springs
+Blue Ridge
+Hayden
+Lookout Mountain
+Ballplay
+Webb
+Georgiana
+West Blocton
+Falkville
+Rogersville
+Fayetteville
+Fyffe
+Camp Hill
+Shoal Creek
+Steele
+Parrish
+Cleveland
+Ardmore
+Eclectic
+Geraldine
+Susan Moore
+Brookside
+Woodstock
+Snead
+New Brockton
+Killen
+Redstone Arsenal
+Clio
+Dunnavant
+Millport
+Brilliant
+Goodwater
+Ohatchee
+Cottonwood
+Pisgah
+Oak Grove
+Coats Bend
+Baileyton
+Egypt
+Carrollton
+Notasulga
+Skyline
+Coosada
+Coker
+Minor
+Tidmore Bend
+Powell
+Hayneville
+Woodville
+Douglas
+Town Creek
+New Market
+Autaugaville
+Vandiver
+Berry
+Rockford
+Pea Ridge
+Brantley
+Section
+Hollywood
+Hobson City
+Lexington
+McKenzie
+Cherokee
+Walnut Grove
+New Union
+Forkland
+Leroy
+Wilton
+Columbia
+Littleville
+Brantleyville
+Allgood
+Pine Hill
+Wedowee
+Shelby
+Courtland
+Franklin
+Edgewater
+Gallant
+Mignon
+Valley Head
+New Site
+Wadley
+Rosa
+Holly Pond
+Mosses
+Oakman
+Lynn
+Sand Rock
+Kinston
+Pickensville
+Chatom
+Sterrett
+Hollins
+Reece City
+Belle Fontaine
+Phil Campbell
+Pine Ridge
+Fairview
+Jacksons' Gap
+Our Town
+Silverhill
+Addison
+Leesburg
+Leighton
+Mulga
+Joppa
+Hillsboro
+Hollis Crossroads
+Maplesville
+Gilbertown
+Pinckard
+Dodge City
+Ariton
+Perdido
+White Plains
+Berlin
+Clayhatchee
+McDonald Chapel
+Arley
+Garden City
+Millry
+Somerville
+Ivalee
+Pennington
+Ider
+White Hall
+River Falls
+Gurley
+Nances Creek
+Grimes
+Eva
+North Courtland
+Rock Mills
+Midway
+Louisville
+Ranburne
+West Jefferson
+Woodland
+Excel
+Silas
+Hytop
+Hackneyville
+Vina
+St. Florian
+Babbie
+Lisman
+Avon
+Bristow Cove
+Pleasant Groves
+Rutledge
+West Point
+Thomaston
+Epes
+Red Level
+McIntosh
+Glen Allen
+Nectar
+Hatton
+Dozier
+Trafford
+Fulton
+Perdido Beach
+South Vinemont
+Nixburg
+Hurtsboro
+Shiloh
+Dutton
+St. Stephens
+Highland Lake
+Napier Field
+Fruithurst
+Castleberry
+Ray
+Union
+Twin
+Black
+Hammondville
+Newville
+Akron
+Belk
+Geiger
+Kennedy
+Cuba
+Hodges
+Millerville
+Elkmont
+Stockton
+Goshen
+East Point
+Mentone
+Reeltown
+Boykin
+Repton
+Gordonville
+Whatley
+Colony
+Weogufka
+Shorter
+Waldo
+Uriah
+Horn Hill
+Gaylesville
+Gordon
+Madrid
+Fredonia
+Newbern
+Heath
+Sipsey
+Lockhart
+Cullomburg
+Detroit
+Maytown
+Carolina
+Anderson
+Daviston
+Banks
+County Line
+Waverly
+Boligee
+Chunchula
+Coffeeville
+Gainesville
+Sanford
+Abanda
+Broomtown
+Glenwood
+Langston
+Bakerhill
+Mount Olive CDP
+Hissop
+Loachapoka
+Riverview
+Coffee Springs
+Hobson
+Fruitdale
+Sweet Water
+Nauvoo
+Edwardsville
+Paint Rock
+Beatrice
+Yellow Bluff
+Macedonia
+Fairford
+Spring Garden
+Pine Apple
+Lester
+Beaverton
+Talladega Springs
+North Johns
+Vinegar Bend
+Delta
+Toxey
+Gu-Win
+Gantt
+Eldridge
+Onycha
+Orrville
+Eunola
+Lakeview
+Gulfcrest
+Pollard
+Billingsley
+Vredenburgh
+Morrison Crossroads
+Bellamy
+Myrtlewood
+Kellyton
+Five Points
+Waterloo
+Haleburg
+Lowndesboro
+Panola
+Faunsdale
+Ethelsville
+Cusseta
+Kansas
+Axis
+Graham
+Malcolm
+Providence
+Blue Springs
+Needham
+Mooresville
+Spruce Pine
+Bon Air
+Ridgeville
+Standing Rock
+Penton
+Goldville
+Libertyville
+Calvert
+Union Grove
+Dayton
+Equality
+Emelle
+Deer Park
+Hanover
+Tibbie
+Nanafalia
+Carlton
+Benton
+Petrey
+Movico
+Belgreen
+Peterman
+Cardiff
+Oak Hill
+Putnam
+McMullen
+Natural Bridge
+Bucks
+Memphis

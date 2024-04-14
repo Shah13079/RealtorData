@@ -1,0 +1,806 @@
+Milwaukee
+Madison
+Green Bay
+Kenosha
+Racine
+Appleton
+Waukesha city
+Eau Claire
+Oshkosh
+Janesville
+West Allis
+La Crosse
+Sheboygan
+Wauwatosa
+Fond du Lac
+Brookfield
+New Berlin
+Wausau
+Menomonee Falls
+Greenfield
+Franklin
+Beloit
+Oak Creek
+Sun Prairie
+Manitowoc
+West Bend
+Fitchburg
+Mount Pleasant
+Neenah
+Superior city
+Stevens Point
+Caledonia
+De Pere
+Muskego
+Mequon
+Watertown
+Middleton
+Pleasant Prairie
+South Milwaukee
+Germantown
+Howard
+Fox Crossing
+Onalaska
+Wisconsin Rapids
+Marshfield
+Cudahy
+Menasha
+Oconomowoc
+Ashwaubenon
+Kaukauna
+Menomonie
+Beaver Dam
+River Falls
+Bellevue
+Weston
+Pewaukee city
+Hartford
+Whitefish Bay
+Greendale
+Waunakee
+Salem Lakes
+Chippewa Falls
+Hudson
+Whitewater
+Allouez
+Verona
+Shorewood
+Plover
+Glendale
+Stoughton
+Suamico
+Brown Deer
+Fort Atkinson
+Baraboo
+Harrison
+Port Washington
+Cedarburg
+Grafton
+Platteville
+Richfield
+Little Chute
+Waupun
+Sussex
+Two Rivers
+Oregon
+Marinette
+Burlington
+DeForest
+Monroe
+Holmen
+Portage
+Elkhorn
+Sparta
+Reedsburg
+New Richmond
+Hobart
+Sturgeon Bay
+Tomah
+Hartland
+Merrill
+St. Francis
+Shawano
+McFarland
+Plymouth
+Rice Lake
+Windsor
+Delavan
+Monona
+Waukesha village
+Somers
+Lake Geneva
+Kronenwetter
+Mukwonago
+Altoona
+Pewaukee village
+Rhinelander
+Sheboygan Falls
+Antigo
+Ashland
+Jefferson
+Ripon
+Mount Horeb
+Hales Corners
+Vernon
+Kimberly
+Cottage Grove
+New London
+Delafield
+Jackson
+Lake Hallie
+Sturtevant
+Fox Point
+Elm Grove
+Twin Lakes
+Rib Mountain
+Waupaca
+Lake Mills
+Slinger
+Edgerton
+Milton
+Evansville
+Prairie du Chien
+Berlin
+Waterford
+Rothschild
+Columbus
+North Fond du Lac
+West Salem
+Wind Lake
+Mayville
+Bristol
+Richland Center
+Tichigan
+Dodgeville
+Union Grove
+Summit
+Bloomfield
+Lake Wisconsin
+East Troy
+Okauchee Lake
+Bayside
+Clintonville
+Oconto
+Mosinee
+Viroqua
+Prairie du Sac
+Prescott
+Medford
+Mauston
+Saukville
+Kewaskum
+French Island
+Baldwin
+West Milwaukee
+Cross Plains
+Chilton
+Lancaster
+Raymond
+Kiel
+Marshall
+North Hudson
+Pulaski
+Horicon
+Rochester
+Stanley
+Bloomer
+Barron
+Omro
+Arcadia
+Combined Locks
+Seymour city
+Black River Falls
+Sauk City
+Waterloo
+Merton
+Lake Delton
+Tomahawk
+Peshtigo
+Ellsworth
+Boscobel
+Thiensville
+Brillion
+Johnson Creek
+Brodhead
+Howards Grove
+Yorkville
+Algoma
+Sherwood
+Ladysmith
+Lodi
+Wrightstown
+New Holstein
+Oostburg
+Hortonville
+Genoa City
+Somerset
+Paddock Lake
+Williams Bay
+Oconto Falls
+Amery
+Lake Wissota
+Delavan Lake
+Wales
+Kewaunee
+Walworth
+Mondovi
+Tainter Lake
+Fennimore
+Osceola
+Juneau
+Wisconsin Dells
+Belleville
+Luxemburg
+Lomira
+Fontana-on-Geneva Lake
+Lake Wazeecha
+Maine
+Bohners Lake
+Poynette
+Mineral Point
+Belgium
+Winneconne
+Deerfield
+Cumberland
+Hayward
+Dousman
+North Prairie
+Neillsville
+Como
+Fredonia
+Park Falls
+Darlington
+Nekoosa
+New Lisbon
+Chetek
+Schofield
+Westby
+Denmark
+New Glarus
+Hammond
+Adams
+Cedar Grove
+Cuba City
+Colby
+Brice Prairie
+Redgranite
+Ixonia
+Abbotsford
+Kohler
+Pardeeville
+Palmyra
+Shorewood Hills
+Spooner
+Eagle
+Browns Lake
+Clinton
+Washburn
+Wautoma
+Lake Ripley
+Roberts
+Osseo
+St. Croix Falls
+Port Edwards
+Butler
+Cleveland
+Durand
+Lac du Flambeau
+Campbellsport
+Mazomanie
+Cameron
+Fall River
+Trempealeau
+Black Earth
+Wind Point
+Thorp
+Fox Lake
+King
+Weyauwega
+Sharon
+Whitehall
+Shell Lake
+West Baraboo
+Spring Green
+Crandon
+Phillips
+Random Lake
+Spencer
+Randolph
+Fall Creek
+Whiting
+Cornell
+Eagle River
+Seymour CDP
+Woodville
+River Hills
+Darien
+Mishicot
+Hurley
+Galesville
+Orfordville
+Montello
+Marathon City
+Bonduel
+Niagara
+Edgar
+Cadott
+Legend Lake
+Lauderdale Lakes
+Colfax
+Spring Valley
+Big Bend
+Keshena
+Elroy
+Stratford
+Grantsburg
+Hillsboro
+Newburg
+Barneveld
+Theresa
+Little Round Lake
+Powers Lake
+Independence
+Lyons
+Lannon
+Manawa
+Cambridge
+St. Peter
+Loyal
+Brooklyn
+Glenwood City
+Black Creek
+Shullsburg
+Markesan
+Gillett
+Westfield
+Boyceville
+Augusta
+Maple Bluff
+Bangor
+Blair
+Iola
+Muscoda
+Luck
+Elkhart Lake
+Frederic
+Princeton
+Cashton
+Oakfield
+Crivitz
+Elk Mound
+Nashotah
+Necedah
+Monticello
+Strum
+Rosendale
+Centuria
+Kekoskee
+Clear Lake
+Reedsville
+Hilbert
+Lake Camelot
+Marion
+Dane
+Hustisford
+Footville
+Eagle Lake
+Albany
+Dresser
+Amherst
+Rio
+Belmont
+Plainfield
+Lake Koshkonong
+Ashippun
+Milltown
+Iron Ridge
+Owen
+Greenwood
+Sister Bay
+Hazel Green
+Turtle Lake village
+Dickeyville
+Coon Valley
+Valders
+Blue Mounds
+Dorchester
+Athens
+Highland
+Biron
+Hingham
+Wild Rose
+Lake Nebagamon
+Balsam Lake
+La Farge
+Hewitt
+Arlington
+Green Lake
+Potter Lake
+Shiocton
+St. Nazianz
+Butte des Morts
+Auburndale
+Greenleaf
+Wittenberg
+Argyle
+Pittsville
+Benton
+Lake Arrowhead
+Siren
+Stockbridge
+Stoddard
+Brandon
+Arena
+Rib Lake
+Buffalo City
+Bruce
+Wauzeka
+Fountain City
+Pepin
+Reeseville
+Solon Springs
+Chenequa
+Eden
+Chain O' Lakes
+Lone Rock
+Allenton
+Whitelaw
+Birnamwood
+Lyndon Station
+Brownsville
+Almena
+Blanchardville
+Montreal
+Coleman
+Alma
+Taycheedah
+Bloomington
+Stetsonville
+Francis Creek
+Eleva
+Wonewoc
+Plain
+Dale
+Cassville
+Forest Junction
+Superior village
+Cambria
+Wyocena
+Neopit
+Lily Lake
+Mount Calvary
+Ettrick
+Elmwood
+Cascade
+Iron River
+Sullivan
+Camp Douglas
+Ridgeway
+Norwalk
+Poplar
+North Freedom
+Montfort
+Tigerton
+Viola
+Rome
+Winchester
+Polonia
+Bancroft
+Webster
+Merrillan
+Woodruff
+Knapp
+Star Prairie
+Plum City
+Minong
+Linden
+Merrimac
+Chief Lake
+Neosho
+Bluffview
+Mellen
+Casco
+Rockland
+Potosi
+Fremont
+Oconomowoc Lake
+Friendship
+Waubeka
+Soldiers Grove
+Hatley
+Elmwood Park
+Laona
+Boyd
+Embarrass
+Wausaukee
+Bayfield
+Avoca
+De Soto
+Fairchild
+Melrose
+Livingston
+Kieler
+Blue River
+Gresham
+Wilton
+Alma Center
+Oxford
+Coloma
+Forestville
+Dellwood
+Lena
+Adell
+Florence
+Withee
+Endeavor
+Mole Lake
+St. Joseph
+Cecil
+Vesper
+Gibbsville
+Prentice
+New Auburn
+Butternut
+Lake Ivanhoe
+Prairie Farm
+Lohrville
+Rosholt
+Mercer
+Park Ridge
+Gilman
+Three Lakes
+Gays Mills
+Northport
+St. Cloud
+Suring
+Warrens
+Almond
+Milladore
+Waldo
+Cobb
+Neshkoro
+Ontario
+Hixton
+Rudolph
+Sextonville
+Mattoon
+Readstown
+Cochrane
+Hancock
+Lake Sherwood
+Dyckesville
+Hawkins
+Caroline
+Kendall
+Glenbeulah
+Taylor
+Poy Sippi
+Dallas
+Junction City
+Unity
+Scandinavia
+New Odanah
+Clyman
+Bay City
+Birchwood
+Arkansaw
+Bagley
+Juda
+Clayton
+Eastman
+Maribel
+Abrams
+Granton
+Kingston
+Mission
+Fairwater
+Tennyson
+Pigeon Falls
+Eureka
+Marquette
+South Wayne
+Waukau
+Arpin
+Hebron
+Birch Hill
+Pound
+Humbird
+Bear Creek
+Nelson
+New Munster
+Chaseburg
+Ironton
+La Valle
+Curtiss
+Chili
+Rock Springs
+Reserve
+Krakow
+Seneca
+Lakewood
+New Post
+Kellnersville
+Bowler
+Minocqua
+Briggsville
+Burnett
+Egg Harbor
+Hager City
+Oliver
+Mindoro
+Friesland
+Sheldon
+Amherst Junction
+North Lake
+Hollandale
+Winter
+Lake Lorraine
+Sobieski
+Haugen
+Ephraim
+Sand Pillow
+Wheeler
+Batavia
+Cazenovia
+Rewey
+Nichols
+Ridgeland
+White Lake
+Van Dyne
+Radisson
+Brothertown
+Sandy Hook
+Loganville
+Eland
+Downsville
+Helenville
+Genoa
+Post Lake
+Mount Hope
+Lac La Belle
+Baileys Harbor
+Wabeno
+Mountain
+Pembine
+Hatfield
+North Bay
+Oakdale
+Springfield
+Potter
+Dalton
+Wilson
+Diamond Bluff
+Weyerhaeuser
+Jim Falls
+Lowell
+Collins
+Turtle Lake CDP
+Ogema
+Browntown
+Goodman
+Dodge
+Deer Park
+Elcho
+Doylestown
+Aniwa
+Patch Grove
+Woodman
+Shopiere
+Gotham
+Westboro
+Union Center
+Rock Falls
+Gratiot
+Arkdale
+Rockdale
+Nelsonville
+Brule
+Hustler
+Exeland
+Ogdensburg
+Port Wing
+Downing
+Greenbush
+Cable
+Boulder Junction
+Sayner
+Glidden
+Lime Ridge
+Grand Marsh
+Holcombe
+Ferryville
+Fenwood
+Amberg
+Newald
+Iron Belt
+Lewis
+Middle Village
+Packwaukee
+Navarino
+Boaz
+Zoar
+Emerald
+Kennan
+Big Falls
+Cataract
+Lebanon
+Ellison Bay
+Edmund
+Tony
+Gilmanton
+Allens Grove
+Wyeville
+Clarks Mills
+Mount Sterling
+Rubicon
+Tunnel City
+Catawba
+Little Sturgeon
+Marengo
+Alto
+Bayfront
+Angelica
+Hanover
+Steuben
+Wiota
+Pine River
+Harrisville
+Danbury
+Pulcifer
+Couderay
+Tustin
+Lynxville
+Elderon
+Jolmaville
+Pella
+Lublin
+Whittlesey
+Franks Field
+Conrath
+Millston
+Woodford
+Dunbar
+Stone Lake
+Argonne
+Drummond
+Glen Flora
+Stockholm
+Cornucopia
+Pence
+Lake Tomahawk
+Townsend
+Barronett
+Maiden Rock
+Grand View
+Herbster
+Melvina
+Chelsea
+Trego
+Babcock
+Bell Center
+Leopolis
+Mason
+Green Valley
+Big Foot Prairie
+Easton
+Waumandee
+Paac Ciinak
+Springbrook
+Dekorra
+Ingram
+Saxon
+Tilleda
+Knowlton
+Gordon
+Diaperville
+Glen Haven
+Odanah
+Jump River
+Long Lake
+Summit Lake
+Thornton
+Clam Lake
+Yuba
+Ceex Haci
+Houlton
+Fulton

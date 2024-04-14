@@ -1,0 +1,550 @@
+Louisville/Jefferson County metro government (balance)
+Lexington-Fayette
+Bowling Green
+Owensboro
+Covington
+Georgetown
+Richmond
+Florence
+Nicholasville
+Elizabethtown
+Hopkinsville
+Jeffersontown
+Frankfort
+Independence
+Henderson
+Paducah
+Radcliff
+Ashland
+Madisonville
+Erlanger
+Winchester
+Burlington
+Mount Washington
+St. Matthews
+Murray
+Fort Thomas
+Danville
+Shelbyville
+Shively
+Berea
+Glasgow
+Newport
+Shepherdsville
+Bardstown
+Fort Campbell North
+Somerset
+Lawrenceburg
+Campbellsville
+Lyndon
+Paris
+Versailles
+Alexandria
+Francisville
+Mayfield
+La Grange
+Franklin
+Oakbrook
+Middlesborough
+Middletown
+Elsmere
+Harrodsburg
+Fort Knox
+Maysville
+Hillview
+Fort Mitchell
+Edgewood
+Corbin
+Oak Grove
+Mount Sterling
+London
+Pikeville
+Villa Hills
+Flatwoods
+Union
+Russellville
+Morehead
+Highland Heights
+Taylor Mill
+Hebron
+Leitchfield
+Vine Grove
+Cynthiana
+Cold Spring
+Princeton
+Lebanon
+Crestwood
+Wilmore
+Central City
+Fort Wright
+Monticello
+Dayton
+Bellevue
+Douglass Hills
+Buckner
+Walton
+Williamsburg
+Hazard
+Hendron
+Columbia
+Benton
+Westwood CDP
+Prospect
+Hurstbourne
+Massac
+Greenville
+Reidland
+Farley
+Ludlow
+Paintsville
+Scottsville
+Crescent Springs
+Prestonsburg
+Crittenden
+Williamstown
+Carrollton
+Lancaster
+Grayson
+Russell
+Southgate
+Stanford
+Beaver Dam
+Crestview Hills
+Hodgenville
+Morganfield
+West Liberty
+Claryville
+Park Hills
+Wilder
+Stanton
+Barbourville
+Simpsonville
+Providence
+Flemingsburg
+Graymoor-Devondale
+Indian Hills
+Marion
+Brandenburg
+Lakeside Park
+Springfield
+Cave City
+Hardinsburg
+Morgantown
+Irvine
+Tompkinsville
+Eminence
+Pioneer Village
+Hartford
+Falmouth
+Russell Springs
+Carlisle
+Louisa
+Eddyville
+Anchorage
+Cadiz
+Calvert City
+Fulton
+Manchester
+Horse Cave
+Windy Hills
+Sorgho
+Thruston
+Whitesburg
+Jackson
+Greensburg
+Rineyville
+Cumberland
+Brooks
+Albany
+Dawson Springs
+Lebanon Junction
+Masonville
+Mount Vernon
+Jamestown
+Warsaw
+Junction City
+Lewisport
+Owingsville
+Doe Valley
+Liberty
+Jeffersonville
+Dry Ridge
+Orchard Grass Hills
+Edmonton
+Hickman
+West Buechel
+Raceland
+Elk Creek
+Breckinridge Center
+Salyersville
+Elkton
+Owenton
+North Corbin
+Beattyville
+Midway
+Hurstbourne Acres
+Munfordville
+Catlettsburg
+Worthington Hills
+Jenkins
+Sturgis
+Pineville
+Worthington
+Taylorsville
+Sebree
+Auburn
+Irvington
+Ledbetter
+Coal Run Village
+Harlan
+St. Regis Park
+Pine Knot
+Burkesville
+Silver Grove
+Pewee Valley
+South Shore
+Vanceburg
+Brodhead
+Olive Hill
+Audubon Park
+Beechwood Village
+Pleasureville
+Whitley City
+Wurtland
+Clarkson
+Coldstream
+Greenup
+Guthrie
+Barbourmeade
+Augusta
+Verona
+Plano
+Clinton
+Northfield
+Elkhorn City
+Stearns
+Muldraugh
+West Van Lear
+Cloverport
+Bromley
+Clay City
+Clay
+Dixon
+Earlington
+West Point
+Hebron Estates
+Lewisburg
+Burgin
+Meadow Vale
+Campbellsburg
+South Wallins
+Brownsville
+Goshen
+Ironville
+Livermore
+Auxier
+Camargo
+Stamping Ground
+Heritage Creek
+Mortons Gap
+Flat Lick
+Hawesville
+Burnside
+Langdon Place
+Bloomfield
+Bellefonte
+Annville
+Bellemeade
+Ryland Heights
+Hanson
+Philpot
+White Plains
+Ferguson
+Nortonville
+Sonora
+Plantation
+Millersburg
+Perryville
+Rolling Hills
+Houston Acres
+Spring Valley
+McKee
+Woodlawn Park
+Frenchburg
+New Castle
+Watterson Park
+East Bernstadt
+Powderly
+Adairville
+Science Hill
+Evarts
+Pembroke
+La Center
+New Haven
+Wheelwright
+Inez
+Wickliffe
+North Middletown
+Garrison
+Corydon
+Hollow Creek
+Payne Gap
+Blue Ridge Manor
+Bardwell
+Calhoun
+Betsy Layne
+Loretto
+Park City
+Sandy Hook
+Milton
+Uniontown
+Lynch
+Lynnview
+Cannonsburg
+Brooksville
+Emlyn
+Salem
+McRoberts
+Woodland Hills
+Loyall
+Seneca Gardens
+Benham
+Butler
+Caneyville
+Crab Orchard
+Pleasant Ridge
+Wayland
+Parkway Village
+Fox Chase
+Smiths Grove
+Hindman
+Millstone
+Ravenna
+Kevil
+Island
+Green Spring
+Magnolia
+Artemus
+Fleming-Neon
+Pippa Passes
+Whitesville
+Hustonville
+Hardin
+Wingo
+Murray Hill
+Summersville
+McDowell
+Fordsville
+Chaplin
+Kuttawa
+Buffalo
+Brownsboro Farm
+Fincastle
+Kenvir
+Robards
+Glenview
+Cawood
+Poplar Hills
+Mayking
+Westwood city
+Strathmoor Village
+Phelps
+Upton
+Van Lear
+Moorland
+Bancroft
+Beechmont
+Riverwood
+Crestview
+Rolling Fields
+Melbourne
+Plum Springs
+Norbourne Estates
+Eubank
+Symsonia
+Diablock
+Crofton
+Centertown
+Virgie
+Cerulean
+Moseleyville
+River Bluff
+Strathmoor Manor
+Cecilia
+Wellington
+Wallins Creek
+Grand Rivers
+Barlow
+Manitou
+Hyden
+Drakesboro
+Hazel
+Sacramento
+South Williamson
+Petersburg
+Sharpsburg
+Kingsley
+Coldiron
+Fredonia
+Briarwood
+Norwood
+Willisburg
+Salt Lick
+Richlawn
+Forest Hills
+Sedalia
+Old Brownsboro Place
+Hollyvilla
+Maceo
+Lakeview Heights
+Ages
+Stanley
+Campton
+Cunningham
+Gilbertsville
+Vicco
+Creekside
+Bradfordsville
+Bedford
+Hunters Hollow
+Woodburn
+Waverly
+McHenry
+Ghent
+Spring Mill
+Bremen
+Utica
+Rockholds
+Glenview Hills
+Glencoe
+Fountain Run
+Sanders
+Mackville
+Martin
+Oneida
+Sparta
+Sadieville
+Druid Hills
+Trenton
+Ezel
+Yelvington
+Pleasant View
+Brownsboro Village
+Gamaliel
+Pathfork
+Smithland
+Fancy Farm
+Dover
+Salvisa
+Rabbit Hash
+Manor Creek
+St. Charles
+Broeck Pointe
+Corinth
+St. Joseph
+St. Mary
+Ekron
+Cayce
+Oakland
+Spottsville
+Wildwood
+Jeff
+Bonnieville
+Hardyville
+Arlington
+Rockport
+Maryhill Estates
+Keene
+Big Clifty
+Goose Creek
+Ewing
+Rochester
+Westport
+Bellewood
+Woodlawn
+Warfield
+McCarr
+Anthoston
+Belfry
+Combs
+Fairview CDP
+Smithfield
+Knottsville
+Allen
+Summer Shade
+Slaughters
+Hiseville
+Beech Grove
+Arjay
+Freeburn
+LaFayette
+South Carrollton
+Hickory
+Mentor
+Fairfield
+Glenview Manor
+Thornhill
+Crossgate
+Worthville
+Mount Olivet
+Mays Lick
+Pryorsburg
+Allensville
+Crayne
+Columbus
+Nebo
+Livingston
+Dunmor
+Berry
+Dwale
+Wheatcroft
+Coxton
+Meadowview Estates
+Cambridge
+Mockingbird Valley
+Booneville
+Fairview city
+Belleview
+Raywick
+Hills
+Dales
+Sycamore
+Kenton Vale
+Cleaton
+Boston
+Blackey
+Meadowbrook Farm
+Elizaville
+Farmington
+Curdsville
+Poole
+Prestonville
+Lincolnshire
+McKinney
+Dexter
+Hickory Hill
+Monterey
+Burna
+Rosine
+Water Valley
+Gracey
+Blandville
+Buckhorn
+California
+Bandana
+High Bridge
+Germantown
+Hazel Green
+Ten Broeck
+Sardis
+Blaine
+Lowes
+Marrowbone
+Gratz
+Woodbury
+New Hope
+Carrsville
+Maytown
+Concord
+Tolu
+Onton

@@ -1,0 +1,664 @@
+Atlanta
+Augusta-Richmond County
+Columbus
+Macon-Bibb County
+Savannah
+Athens-Clarke County
+Sandy Springs
+South Fulton
+Roswell
+Johns Creek
+Warner Robins
+Albany
+Alpharetta
+Marietta
+Stonecrest
+Smyrna
+Valdosta
+Brookhaven
+Dunwoody
+Peachtree Corners
+Gainesville
+Mableton
+Newnan
+Milton
+Evans
+East Point
+Peachtree City
+Rome
+Tucker
+Hinesville
+Douglasville
+Dalton
+Woodstock
+Martinez
+Kennesaw
+Redan
+Statesboro
+Canton
+Duluth
+LaGrange
+Lawrenceville
+Chamblee
+McDonough
+Stockbridge
+Carrollton
+Union City
+Pooler
+Sugar Hill
+Decatur
+Griffin
+Candler-McAfee
+Cartersville
+Acworth
+Suwanee
+Snellville
+Perry
+Forest Park
+Thomasville
+Fayetteville
+Kingsland
+St. Marys
+North Druid Hills
+Winder
+Norcross
+Milledgeville
+Tifton
+Conyers
+Calhoun
+Villa Rica
+Buford
+Powder Springs
+North Decatur
+Fairburn
+Americus
+Dublin
+Richmond Hill
+St. Simons
+Lithia Springs
+Holly Springs
+Grovetown
+Wilmington Island
+Riverdale
+Brunswick
+Monroe
+Moultrie
+Belvedere Park
+Clarkston
+Lilburn
+Bainbridge
+Covington
+College Park
+Waycross
+Loganville
+Dallas
+Braselton
+Vinings
+Jefferson
+Mountain Park CDP
+Georgetown
+Douglas
+Rincon
+Vidalia
+Doraville
+Scottdale
+Port Wentworth
+Cordele
+Garden City
+Lovejoy
+Fort Oglethorpe
+Cairo
+Cedartown
+Jesup
+Thomaston
+Cusseta-Chattahoochee County
+Country Club Estates
+Fort Stewart
+Flowery Branch
+Panthersville
+Toccoa
+Fitzgerald
+Fair Oaks
+Skidaway Island
+Bemiss
+Fort Valley
+Locust Grove
+Druid Hills
+Gresham Park
+Austell
+Hampton
+Irondale
+Dock Junction
+Centerville
+Tyrone
+Swainsboro
+Auburn
+Commerce
+Bremen
+Whitemarsh Island
+Conley
+LaFayette
+Thomson
+Cumming
+Dacula
+Stone Mountain
+Morrow
+Hapeville
+Dahlonega
+Barnesville
+Eatonton
+McRae-Helena
+Sandersville
+Fairview
+Waynesboro
+Fairfield Plantation
+Sylvester
+Eastman
+Byron
+Adel
+Jackson
+Blakely
+Camilla
+Temple
+Cochran
+Baxley
+Lindale
+Social Circle
+Nashville
+Montgomery
+Senoia
+Adairsville
+Oakwood
+Palmetto
+Chatsworth
+Hiram
+Lakeview
+Rockmart
+Elberton
+Buckhead CDP
+Cornelia
+Jonesboro
+Grayson
+Hartwell
+Madison
+Summerville
+Dawson
+Forsyth
+Folkston
+Euharlee
+Lyons
+Ashburn
+Hawkinsville
+Quitman
+Jasper
+Hazlehurst
+Rossville
+Metter
+Glennville
+West Point
+Bonanza
+Washington
+Baldwin
+Walthourville
+Chattanooga Valley
+Heron Bay
+Ocilla
+Echols County consolidated government
+Manchester
+Kennesaw State University
+Dawsonville
+Harlem
+Greensboro
+Pelham
+Hannahs Mill
+Blackshear
+Avondale Estates
+Cleveland
+Alma
+Ringgold
+Leesburg
+Gray
+Wrightsville
+Hardwick
+Hahira
+Hogansville
+Cuthbert
+Tallapoosa
+Putney
+Montezuma
+Grantville
+Tybee Island
+Nicholls
+Vienna
+Lake City
+Chattahoochee Hills
+Millen
+Unadilla
+Chickamauga
+East Dublin
+Lakeview Estates
+Springfield
+Watkinsville
+Soperton
+Bloomingdale
+Lakeland
+Lula
+Donalsonville
+Abbeville
+Kings Bay Base
+Reed Creek
+Statham
+Henderson
+Lavonia
+Bowdon
+Hoschton
+Raoul
+Sylvania
+Trion
+Royston
+Lithonia
+Claxton
+Thunderbolt
+Louisville
+Monticello
+Berkeley Lake
+Pembroke
+Demorest
+Midway
+Ball Ground
+Reidsville
+Webster County unified government
+Isle of Hope
+Sparks
+Mount Zion
+Wrens
+Gumlog
+Davisboro
+Guyton
+Mount Vernon
+Experiment
+Georgetown-Quitman County
+Deenwood
+Varnell
+Warrenton
+Buena Vista
+Clayton
+Homerville
+Trenton
+Sparta
+Butler
+Morgan
+Colquitt
+Wadley
+Ludowici
+Oxford
+Pearson
+Shannon
+Hamilton
+Gordon
+Ellijay
+Indian Springs
+Berry College
+Porterdale
+Sterling
+Nicholson
+Twin City
+Unionville
+Emerson
+Lincolnton
+Cataula
+McCaysville
+Russell
+Maysville
+Comer
+Lookout Mountain
+Ellaville
+Union Point
+Walnut Grove
+Pine Mountain
+Clarkesville
+Aragon
+Arcade
+Moody AFB
+Bogart
+Resaca
+Mount Airy
+Robins AFB
+Lumber City
+Darien
+Homer
+Tennille
+Brooklet
+Willacoochee
+Zebulon
+East Griffin
+Pendergrass
+Tunnel Hill
+Fairplay
+Sunnyside
+Crawford
+Oglethorpe
+Homeland
+Alto
+Remerton
+Alamo
+Hagan
+Sycamore
+Omega
+Dutch Island
+Buchanan
+Ivey
+Enigma
+Roberta
+Boston
+Nahunta
+Greenville
+Jekyll Island
+Eton
+Fairmount
+Carnesville
+Blue Ridge
+Canon
+Woodbine
+Richland
+Dasher
+Edison
+Young Harris
+Marshallville
+Talahi Island
+Ellerslie
+Glenwood
+Norman Park
+Rutledge
+Ray City
+Phillipsburg
+Tignall
+Arlington
+Clermont
+Broxton
+Franklin
+Mountain Park city
+Dexter
+Flemington
+Lake Park
+Mountain City
+Rochelle
+Shellman
+Franklin Springs
+Sardis
+Flovilla
+Riceboro
+Funston
+Cave Spring
+Nelson
+Rock Spring
+Hiawassee
+West Brow
+Meigs
+Gibson
+Offerman
+Jeffersonville
+Baconton
+Bowman
+White
+Fort Gaines
+Woodbury
+Doerun
+Bethlehem
+Lumpkin
+Danielsville
+Berlin
+Patterson
+Blairsville
+Poulan
+Pine Lake
+Luthersville
+Newborn
+Lenox
+Plains
+Waynesville
+Wildwood
+Kingston
+Screven
+Sunset Village
+Stillmore
+Waleska
+Attapulgus
+Morven
+Crescent
+East Newnan
+Reynolds
+Molena
+Talbotton
+Chester
+Hoboken
+Waverly Hall
+Cohutta
+Williamson
+Adrian
+Ochlocknee
+Milan
+Piney Grove
+Graham
+Cadwell
+Dudley
+Lincoln Park
+Coolidge
+McIntyre
+Rhine
+Pavo
+Alapaha
+Arabi
+Toomsboro
+Collins
+Menlo
+Crooked Creek
+Bowersville
+Appling
+Warwick
+North High Shoals
+Dearing
+Warm Springs
+East Ellijay
+Oak Park
+Eulonia
+Shiloh
+Moreland
+Ty Ty
+Whitesburg
+Waco
+Brooks
+Cobbtown
+Mansfield
+Ailey
+Centralhatchee
+Tiger
+Colbert
+Pineview
+Milner
+Milstead
+Allenhurst
+Ephesus
+Arnoldsville
+Gumbranch
+Portal
+Whigham
+Crawfordville
+Sky Valley
+New England
+Byromville
+Leslie
+Sharpsburg
+Newton
+Lyerly
+Irwinton
+Yonah
+Ideal
+Sumner
+Scotland
+Empire
+Helen
+Bolingbroke
+Pinehurst
+Carlton
+Bishop
+Between
+Maxeys
+Sautee-Nacoochee
+Leary
+Daisy
+Siloam
+Good Hope
+Waresboro
+Mineral Bluff
+Antioch
+Newington
+Camak
+Concord
+Argyle
+Sale City
+Hiltonia
+Bronwood
+Sasser
+Ila
+Martin
+Taylorsville
+Plainville
+Higgston
+Rebecca
+Junction City
+Montrose
+Uvalda
+Midville
+Harrison
+Juliette
+Odum
+Yatesville
+Roopville
+Pitts
+Clyattville
+Bostwick
+Fargo
+Jenkinsburg
+Lexington
+Salem
+Stapleton
+Braswell
+Turin
+Chauncey
+Talmo
+Smithville
+Keysville
+Norwood
+Woodland
+Cecil
+Iron City
+Axson
+Smarr
+Oliver
+Hickox
+Epworth
+Bluffton
+Shady Dale
+Barwick
+Morganton
+Tallulah Falls
+Girard
+Damascus
+Woodville
+Rentz
+Summertown
+Kite
+Avera
+Gillsville
+Dillard
+Oconee
+Dixie
+Culloden
+Surrency
+Climax
+Pulaski
+Waverly
+Orchard Hill
+Denton
+Carl
+Avalon
+Bartow
+Buckhead town
+Jakin
+Stockton
+Danville
+Vidette
+Ellenton
+Haralson
+White Plains
+Wenona
+Dewy Rose
+Rocky Ford
+Rayle
+Andersonville
+Alston
+Ambrose
+Jacksonville
+Hilltop
+Box Springs
+Woolsey
+Garfield
+Deepstep
+Santa Claus
+Hortense
+Mendes
+Knoxville
+Geneva
+Bellville
+Faceville
+Vernonburg
+Satilla
+Meansville
+Register
+Du Pont
+Warthen
+Jersey
+Sunny Side
+Allentown
+Matthews
+Brinson
+Calvary
+Gay
+Mitchell
+Godfrey
+Hull
+Nunez
+Riddleville
+Parrott
+Lilly
+Talking Rock
+Manassas
+Tarrytown
+Ranger
+Lone Oak
+Manor
+Gough
+Musella
+Rockingham
+De Soto
+Sharon
+Glenn
+Seville
+Gardi
+Dooling
+Mershon
+The Rock
+Bristol
+Dixie Union
+Canoochee
+Cedar Springs
+Naylor
+Rest Haven
+Norristown
+Ohoopee
+Cogdell
+Everett
+Boykin
+Aldora
+Edge Hill

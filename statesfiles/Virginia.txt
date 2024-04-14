@@ -1,0 +1,667 @@
+Virginia Beach
+Chesapeake
+Norfolk
+Arlington
+Richmond
+Newport News
+Alexandria
+Hampton
+Roanoke
+Portsmouth
+Suffolk
+Lynchburg
+Dale City
+Centreville
+Reston
+Harrisonburg
+McLean
+Leesburg
+Tuckahoe
+Charlottesville
+Ashburn
+Lake Ridge
+Blacksburg
+Burke
+Woodbridge
+Manassas
+Danville
+Linton Hall
+Annandale
+Mechanicsville
+Oakton
+Fair Oaks
+South Riding
+Petersburg
+Springfield
+Sterling
+West Falls Church
+Winchester
+Fredericksburg
+Short Pump
+Tysons
+Staunton
+Salem
+Cave Spring
+Herndon
+Bailey's Crossroads
+Fairfax
+Chantilly
+West Springfield
+Christiansburg
+Hopewell
+Woodlawn CDP
+Chester
+Waynesboro
+Cherry Hill
+Brambleton
+Montclair
+Leesylvania
+Rose Hill CDP
+Lorton
+McNair
+Lincolnia
+Culpeper
+Meadowbrook
+Merrifield
+Midlothian
+Franklin Farm
+Buckhall
+Sudley
+Hybla Valley
+Kingstowne
+Franconia
+Colonial Heights
+Burke Centre
+Laurel
+Bon Air
+Idylwood
+Gainesville
+Manassas Park
+Bristol
+Bull Run CDP
+East Highland Park
+Vienna
+Wolf Trap
+Fort Hunt
+Radford
+Hollins
+Stone Ridge
+Williamsburg
+Front Royal
+Broadlands
+Highland Springs
+Glen Allen
+Great Falls
+Falls Church
+Groveton
+Huntington
+Kings Park West
+Brandermill
+Mount Vernon
+Martinsville
+Newington
+Lansdowne
+Timberlake
+Sugarland Run
+Lakeside
+Newington Forest
+Cascades
+Poquoson
+Fairfax Station
+Manchester
+Wyndham
+Stuarts Draft
+Dranesville
+Wakefield CDP
+New Baltimore
+Gloucester Point
+Lowes Island
+Forest
+Triangle
+Madison Heights
+Lake Barcroft
+Difficult Run
+Loudoun Valley Estates
+Lake Monticello
+Woodburn
+Yorkshire
+Warrenton
+George Mason
+Independent Hill
+Belmont
+University of Virginia
+Countryside
+Dunn Loring
+Seven Corners
+Pulaski
+Innsbrook
+Purcellville
+Fishersville
+Fair Lakes
+Hollymead
+Lake of the Woods
+Smithfield
+Dumbarton
+Laurel Hill
+Abingdon
+Wytheville
+Franklin
+Bellwood
+Vinton
+South Boston
+Greenbriar
+Rockwood
+Fort Belvoir
+Crozet
+Mantua
+Long Branch
+Montrose
+Floris
+Collinsville
+Bull Run CDP
+Ashland
+Woodlake
+North Springfield
+Lexington
+Farmville
+Carrollton
+Sandston
+Strasburg
+South Run
+Potomac Mills
+Galax
+Buena Vista
+Bedford
+Braddock
+Hutchison
+Belle Haven CDP
+Fort Lee
+Aquia Harbour
+Pimmit Hills
+Massanetta Springs
+Bridgewater
+Bensley
+Marion
+Emporia
+Covington
+Woodstock
+Quantico Base
+Dumfries
+Dulles Town Center
+Spotsylvania Courthouse
+Richlands
+Big Stone Gap
+Ettrick
+Bluefield
+Chamberlayne
+Crosspointe
+Moorefield
+Orange
+Stafford Courthouse
+Rocky Mount
+Luray
+King George
+South Hill
+Bethel Manor
+Union Mill
+Falmouth
+Berryville
+Tazewell
+Enon
+Verona
+Hayfield
+Pantops
+Mount Hermon
+Kings Park
+County Center
+University Center
+Loch Lomond
+Broadway
+Bealeton
+Colonial Beach
+Navy
+Lake Land'Or
+Norton
+Clifton Forge
+Cloverdale
+Shenandoah Farms
+Dahlgren
+Blackstone
+Altavista
+West Point
+Chincoteague
+Gloucester Courthouse
+North Shore
+Southern Gateway
+Lebanon
+Marshall
+Blue Ridge
+Daleville
+Wise
+Timberville
+Lake Wilderness
+Elkton
+Grottoes
+Pearisburg
+Hillsville
+Crewe
+Shenandoah
+Windsor
+Waverly
+Merrimac
+Dublin
+Lovettsville
+Fairlawn
+Amherst
+One Loudoun
+Oak Grove
+Chase City
+Matoaca
+Goose Creek Village
+Ravensworth
+Shawneeland
+Lake Holiday
+Stephens City
+Sully Square
+Warsaw
+New Market
+Woodlawn CDP
+Arcola
+Saltville
+Appomattox
+Massanutten
+Weyers Cave
+Crimora
+Patrick Springs
+Raven
+Narrows
+Pennington Gap
+Glade Spring
+Chilhowie
+Mount Jackson
+Stanley
+Victoria
+Horse Pasture
+Louisa
+Rivanna
+Tappahannock
+Rustburg
+Piney Mountain
+Gate City
+Mason Neck
+East Lexington
+Courtland
+Hampden-Sydney
+Ferrum
+Gordonsville
+Laymantown
+Bull Run Mountain Estates
+Prince George
+Westlake Corner
+Lyndhurst
+Adwolf
+Halifax
+Exmore
+Shawsville
+Dayton
+Coeburn
+Middletown
+Rio
+Boswell's Corner
+Chatham
+Haymarket
+Weber City
+Twin Lakes
+Clarksville
+Rural Retreat
+Great Falls Crossing
+Bowling Green
+Greenville
+Appalachia
+Cana
+Lake Caroline
+Hurt
+Camp Barrett
+Glasgow
+Nokesville
+Stuart
+Kilmarnock
+Mountain Road
+Edinburg
+Apple Mountain Lake
+Captains Cove
+Central Garage
+Clintwood
+Brightwood
+Nellysford
+Penhook
+Lawrenceville
+Ruckersville
+Riner
+Basye
+Jonesville
+Gretna
+Onancock
+Kenbridge
+Wakefield town
+Belmont Estates
+Ridgeway
+Castlewood
+Springville
+Chatmoss
+Honaker
+Passapatanzy
+Dooms
+Claypool Hill
+Cedar Bluff
+Buchanan
+Independence
+Elliston
+Stanleytown
+Cape Charles
+St. Paul
+Innovation
+Grundy
+Occoquan
+Earlysville
+Atkins
+Union Hall
+Brookneal
+Pembroke
+Mathews
+Bassett
+Emory
+Chester Gap
+McGaheysville
+Prices Fork
+Gratton
+Concord
+Amelia Court House
+Harriston
+Maurertown
+Wattsville
+Meadowview
+Parksley
+Accomac
+Arrington
+Riverdale
+Rushmere
+Plum Creek
+Blairs
+Craigsville
+Cluster Springs
+Deltaville
+Henry Fork
+Keysville
+Dryden
+Glenvar
+New Kent
+Belview
+Benns Church
+Pound
+Laurel Park
+East Stone Gap
+Shenandoah Shores
+Bracey
+Ivy
+Boyce
+Jarratt
+Disputanta
+Blue Ridge Shores
+Sugar Grove
+Skyland Estates
+Remington
+Fort Chiswell
+Jolivue
+Belle Haven town
+Dahlgren Center
+Gwynn
+Fieldale
+Esmont
+Hamilton
+New Hope
+Rose Hill CDP
+Round Hill
+Camptown
+Charlotte Court House
+Barboursville
+Onley
+Motley
+Sedley
+Damascus
+Ivanhoe
+Big Stone Gap East
+Rich Creek
+Middleburg
+Sandy Level
+Seven Mile Ford
+Allison Gap
+The University of Virginia's College at Wise
+Boissevain
+Fincastle
+Nassawadox
+Boston
+Saluda
+Mallow
+Scottsville
+Mappsville
+Mineral
+Riverview
+Haysi
+Floyd
+Max Meadows
+Metompkin
+Mount Sidney
+Goochland
+Opal
+Clover
+Drakes Branch
+Draper
+Dinwiddie
+Atlantic
+Dillwyn
+Keezletown
+Baywood
+Cheriton
+La Crosse
+Villa Heights
+Shenandoah Retreat
+Hot Springs
+Lovingston
+Fries
+Mount Crawford
+Nelsonia
+Southampton Meadows
+Boykins
+Linville
+McKenney
+Quantico
+Stewartsville
+Keokee
+Burkeville
+Stanardsville
+Savageville
+Selma
+Eastville
+Gasburg
+Wintergreen
+New Church
+Dante
+Lafayette
+Urbanna
+Toms Brook
+Bastian
+Nickelsville
+Powhatan
+Phenix
+Melfa
+Horntown
+Montross
+Chase Crossing
+Gargatha
+Moneta
+Irvington
+New River
+Tangier
+Pastoria
+Claremont
+Montvale
+Troutville
+Port Republic
+Pounding Mill
+Oak Level
+Ewing
+Low Moor
+Iron Gate
+Madison
+Cumberland
+Flint Hill
+Shipman
+Cleveland
+Tasley
+Tacoma
+Newsoms
+White Stone
+Afton
+Stickleyville
+Keswick
+Dendron
+Ivor
+Bloxom
+Clifton
+North Garden
+Goshen
+Ripplemead
+McMullin
+Hiltons
+Quinby
+Bland
+Brodnax
+Alberta
+Surry
+Callaghan
+Sussex
+Dungannon
+Boydton
+The Plains
+Keller
+Stony Creek
+Cats Bridge
+Churchville
+Weems
+Schuyler
+Yorktown
+Vansant
+Fairfield
+Saxis
+Brucetown
+Big Rock
+Savage Town
+King William
+Sperryville
+Modest Town
+New Castle
+Aldie
+Baskerville
+Waterford
+Hiwassee
+Buckingham Courthouse
+Fairview Beach
+Heathsville
+Hallwood
+Mount Clifton
+Bayside
+Big Island
+Temperanceville
+Cliftondale Park
+Carrsville
+Wachapreague
+Eagle Rock
+Sherando
+Clinchco
+Parrott
+Harborton
+Deerfield
+Makemie Park
+Lee Mont
+Pocahontas
+Bobtown
+Nottoway Court House
+Augusta Springs
+Painter
+Pungoteague
+Breaks
+Hillsboro
+Troutdale
+Stevens Creek
+Glen Wilton
+Monterey
+Hanover
+Midland
+Boones Mill
+Virgilina
+Port Royal
+Belspring
+Yogaville
+Mendota
+Scotland
+Abbs Valley
+Brandy Station
+Capron
+Lunenburg
+Stonega
+Branchville
+Singers Glen
+Free Union
+Upperville
+Scottsburg
+Fairview
+Nathalie
+Jewell Ridge
+Eggleston
+Falls Mills
+Dunbar
+Glen Lyn
+Palmyra
+Schooner Bay
+Catlett
+St. Charles
+Hilltown
+Ebony
+Union Level
+Warfield
+Gore
+Charles City
+King
+Queen Court House
+Mappsburg
+Pamplin City
+Osaka
+Washington
+Snowville
+Templeton
+Allisonia
+Millboro
+Duffield
+Kincora
+Thynedale
+Columbia
+Sanford
+Paris
+Rectortown
+Calverton
+Lancaster
+Southside Chesconessex
+Willis Wharf
+Fancy Gap
+Oak Hall
+Doran
+Clinchport
+Middlebrook
+McDowell
+Greenbackville
+Whitesville
+Mechanicsburg
+Greenbush
+Meadows of Dan
+Rocky Gap
